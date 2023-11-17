@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Sami :wave:
 
-<!--
-**Bad-Sam/Bad-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a low-level game programmer committed to providing fast, reliable, efficient code that lasts.  
+I aim to empower game designers, artists and programmers with performant, scalable and easy-to-use tools and systems.
 
-Here are some ideas to get you started:
+### Topics I find fascinating or want to get into
+C & C++, game engines, optimisation and performance, x86/ARM/PowerPC SIMD intrinsics and assembly, CPU dispatching, CPU inner workings, cross-platform code, Windows and Linux APIs, profiling, efficient memory management, multithreading, audio programming, network/socket programming, data compression, algorithmics, mathematics, graph theory, physics, energy-efficient development practices/code/hardware, hardware repair and diagnostic software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### People I look up to for their work and programming philosophy
+- [Casey Muratori](https://handmadehero.org/)
+- [Mike Acton](https://youtu.be/rX0ItVEVjHc)
+- [Andreas Fredriksson](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
+- [Chris Wellons](https://nullprogram.com/)
+- [Agner Fog](https://www.agner.org/optimize/)
+
+[linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara/) /// [sami.amara@pm.me](mailto:sami.amara@pm.me)
