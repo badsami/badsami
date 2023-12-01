@@ -10,7 +10,7 @@ C & C++, game engines, optimisation and performance, x86/ARM/PowerPC SIMD intrin
 - [Casey Muratori](https://handmadehero.org/)
 - [Mike Acton](https://youtu.be/rX0ItVEVjHc)
 - [Andreas Fredriksson](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
-- [Chris Wellons](https://nullprogram.com/)
+- [Christopher "skeeto" Wellons](https://nullprogram.com/)
 - [Agner Fog](https://www.agner.org/optimize/)
 
 [linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara/) /// [sami.amara@pm.me](mailto:sami.amara@pm.me)
