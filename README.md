@@ -1,7 +1,7 @@
 ## Hi, I'm Sami :wave:
 
-I'm a low-level game developer committed to fast, clear and reliable code that lasts with great attention to detail
-I am to enable boundless creativity with tailored and easy-to-use systems and tools that don't get in the way.
+I'm a low-level game developer committed to fast, clear and reliable code that lasts with great attention to detail.  
+I aim to enable boundless creativity with tailored and easy-to-use systems and tools that don't get in the way.
 
 ### Topics I find fascinating or want to get into
 C & C++, game engines, optimisation and performance, x86/ARM/PowerPC SIMD intrinsics and assembly, CPU dispatching, CPU inner workings, cross-platform code, Windows and Linux APIs, rendering, profiling, efficient memory management, multithreading, audio programming, network/socket programming, data compression, algorithmics, mathematics, graph theory, physics, energy-efficient development practices/code/hardware, hardware repair and diagnostic software
