@@ -8,10 +8,10 @@ C & C++, game engines, data-oriented, optimisation, x86/ARM/PowerPC SIMD intrins
 
 ### People I look up to for their work and programming philosophy
 - The [Handmade Network](https://handmade.network/) community
-- [Casey Muratori](https://handmadehero.org/)
+- [Casey Muratori](https://youtu.be/A2dxjOjWHxQ)
 - [Mike Acton](https://youtu.be/rX0ItVEVjHc)
 - [Andreas Fredriksson](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
 - [Christopher "skeeto" Wellons](https://nullprogram.com/)
 - [Agner Fog](https://www.agner.org/optimize/)
 
-[linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara/) /// [sami.amara@pm.me](mailto:sami.amara@pm.me)
+[linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara) /// [sami.amara@pm.me](mailto:sami.amara@pm.me)
