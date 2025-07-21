@@ -1,11 +1,15 @@
 ## Hi, I'm Sami :wave:
 
-Proficient C, C++ and C# developer committed to writing clear, efficient and useful code that lasts, guided by a comprehensive understanding of hardware and constraints. Wants to enable boundless creativity and bring happiness to people. Eager to learn, help, strive and thrive.
+I am C & C++ system programmer thriving to write clear, efficient and useful code that lasts, guided by a comprehensive understanding of hardware, system constraints and general context.  
+I want to create, use and promote software and tools that are fast, functional, easy to use, and able to run on old low-end systems as well as on new high-end systems.
 
 ### Topics I am interested in and/or thrive to get familiar with
-C & C++, game engines, data-oriented, optimisation, x86/ARM/PowerPC SIMD intrinsics and assembly, CPU dispatching, CPU inner workings, cross-platform code, Windows and Linux APIs, rendering, profiling, efficient memory management, multithreading, audio programming, network/socket programming, data compression, algorithmics, mathematics, graph theory, physics, bioinformatics, genomics, climate informatics, energy-efficient development practices/code/hardware, hardware repair and diagnostic software
+Systems programming, data-oriented design, performance and memory analysis and optimisation techniques, hardware inner workings & features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
 
-### People I look up to for their work and programming philosophy
+### Fields I am interested in
+Video games, genomics, bioinformatics, green computing
+
+### People my programming philosophy is aligned with
 - The [Handmade Network](https://handmade.network/) community
 - [Casey Muratori](https://youtu.be/A2dxjOjWHxQ)
 - [Mike Acton](https://youtu.be/rX0ItVEVjHc)
