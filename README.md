@@ -12,7 +12,7 @@ Video games, genomics, bioinformatics, green computing
 - The [Handmade Network](https://handmade.network/) community
 - [Casey Muratori](https://youtu.be/A2dxjOjWHxQ)
 - [Mike Acton](https://youtu.be/rX0ItVEVjHc)
-- [Andreas "deplinenoise" Fredriksson](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
+- [Andreas "deplinenoise" Fredriksson](https://vimeo.com/644068002)
 - [Christopher "skeeto" Wellons](https://nullprogram.com/)
 - [Agner Fog](https://www.agner.org/optimize/)
 
