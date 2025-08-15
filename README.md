@@ -16,4 +16,4 @@ Genomics, bioinformatics, green computing, scientific research, video games
 - [Christopher "skeeto" Wellons](https://nullprogram.com/)
 - [Agner Fog](https://www.agner.org/optimize/)
 
-[linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara) /// [sami.amara@pm.me](mailto:sami.amara@pm.me)
+[linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara) /// [sami.amara@protonmail.com](mailto:sami.amara@protonmail.com)
