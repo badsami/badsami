@@ -6,7 +6,7 @@ I am C & C++ systems programmer thriving to write clear, efficient and useful co
 Systems programming, data-oriented design, performance and memory analysis and optimisation techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
 
 ### Fields of interest
-Genomics, bioinformatics, green computing, scientific research, video games
+Genomics, bioinformatics, scientific research, green computing, permacomputing, video games
 
 ### People my programming philosophy is aligned with
 - The [Handmade Network](https://handmade.network/) community
