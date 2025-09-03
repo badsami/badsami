@@ -3,7 +3,7 @@
 I am C & C++ systems programmer thriving to write clear, efficient and useful code that lasts, guided by a comprehensive understanding of hardware, systems constraints and general development context. I want to create, use and promote software that is fast, energy efficient, functional, easy to use and able to run on old low-end and new high-end systems alike.
 
 ### Topics of interest
-Systems programming, data-oriented design, performance and memory analysis and optimisation techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
+Systems programming, data-oriented design, performance & memory analysis and optimisation techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
 
 ### Fields of interest
 Genomics, bioinformatics, scientific research, green computing, permacomputing, video games
