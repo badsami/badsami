@@ -1,19 +1,11 @@
 ## Hi, I'm Sami :wave:
 
-I am C & C++ systems programmer thriving to write clear, efficient and useful code that lasts, guided by a comprehensive understanding of hardware, systems constraints and general development context. I want to create, use and promote software that is fast, energy efficient, functional, easy to use and able to run on old low-end and new high-end systems alike.
+I'm a C & C++ developer interested in creating resource-efficient solutions by leveraging hardware and operating systems features, succinct data structures and suitable or new algorithms.
 
 ### Topics of interest
-Systems programming, data-oriented design, performance & memory analysis and optimisation techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
+Systems programming, data-oriented design, performance & memory analysis and optimization techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
 
 ### Fields of interest
 Genomics, bioinformatics, scientific research, green computing, permacomputing, video games
-
-### People my programming philosophy is aligned with
-- The [Handmade Network](https://handmade.network/) community
-- [Casey Muratori](https://youtu.be/A2dxjOjWHxQ)
-- [Mike Acton](https://youtu.be/rX0ItVEVjHc)
-- [Andreas "deplinenoise" Fredriksson](https://vimeo.com/644068002)
-- [Christopher "skeeto" Wellons](https://nullprogram.com/)
-- [Agner Fog](https://www.agner.org/optimize/)
 
 [linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara) /// [sami.amara@protonmail.com](mailto:sami.amara@protonmail.com)
