@@ -1,6 +1,6 @@
 ## Hi, I'm Sami :wave:
 
-I'm a C & C++ developer interested in creating resource-efficient solutions by leveraging hardware and operating systems features, succinct data structures and suitable or new algorithms.
+I'm a C & C++ developer interested in creating performant and resource-efficient solutions by leveraging hardware and operating systems features, succinct data structures and suitable or new algorithms.
 
 ### Topics of interest
 Systems programming, data-oriented design, performance & memory analysis and optimization techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
