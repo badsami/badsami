@@ -6,6 +6,6 @@ I'm a C & C++ developer interested in creating performant and resource-efficient
 Systems programming, data-oriented design, performance & memory analysis and optimization techniques, hardware inner workings and features (SIMD & other intrinsics, memory, CPUs, GPUs), data compression, power-efficient environment-friendly development practices/code/hardware
 
 ### Fields of interest
-Genomics, bioinformatics, scientific research, green computing, permacomputing, video games
+Computational biology, genomics, scientific research, green computing, permacomputing, video games
 
 [linkedin.com/in/samiamara](https://www.linkedin.com/in/samiamara) /// [sami.amara@protonmail.com](mailto:sami.amara@protonmail.com)
